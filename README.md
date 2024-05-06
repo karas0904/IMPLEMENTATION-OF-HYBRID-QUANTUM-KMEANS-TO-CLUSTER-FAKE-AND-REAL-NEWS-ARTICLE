@@ -1,4 +1,4 @@
-# Quantum Clustering Project
+# Quantum KMeans Clustering Project
 
 ## Abstract
 Clustering algorithms are fundamental tools in data analysis and pattern recognition, aiming to partition datasets into groups based on similarity. 
